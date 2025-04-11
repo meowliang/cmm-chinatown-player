@@ -5,7 +5,7 @@ const playlist = {
   tracks: [
     {
       chapter: 1,
-      title: "Chapter 1: Chinatown Memories",
+      title: "Chinatown Memories",
       audio_url: "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-14-CHINATOWN-AUDIO/2025-03-14-CHINATOWN-MP3S/2025-03-14-CHINATOWN-001-COMPRESSED.mp3",
       artwork_url: "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-12-CHINATOWN-AUDIOTOUR/2025-03-12-CHINATOWN-ARTWORK/001+Ch1-TelecomAR-ezgif.com-optimize.gif",
       playlist: "Look Up",
@@ -15,7 +15,7 @@ const playlist = {
     },
     {
       chapter: 2,
-      title: "Chapter 2: Look Tin Eli",
+      title: "Look Tin Eli",
       audio_url: "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-14-CHINATOWN-AUDIO/2025-03-14-CHINATOWN-MP3S/2025-03-14-CHINATOWN-002-COMPRESSED.mp3",
       artwork_url: "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-12-CHINATOWN-AUDIOTOUR/2025-03-12-CHINATOWN-ARTWORK/002+Look_Tin_Eli_12017_Page_17.jpg",
       playlist: "Look Up",
@@ -25,7 +25,7 @@ const playlist = {
     },
     {
       chapter: 3,
-      title: "Chapter 3: Earthquake",
+      title: "Earthquake",
       audio_url: "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-14-CHINATOWN-AUDIO/2025-03-14-CHINATOWN-MP3S/2025-03-14-CHINATOWN-003-COMPRESSED.mp3",
       artwork_url: "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-12-CHINATOWN-AUDIOTOUR/2025-03-12-CHINATOWN-ARTWORK/003+Chinatown+front_+1906+earthquake.jpg",
       playlist: "Look Up",
@@ -35,7 +35,7 @@ const playlist = {
     },
     {
       chapter: 4,
-      title: "Chapter 4: Spofford Alley",
+      title: "Spofford Alley",
       audio_url: "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-14-CHINATOWN-AUDIO/2025-03-14-CHINATOWN-MP3S/2025-03-14-CHINATOWN-004-COMPRESSED.mp3",
       artwork_url: "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-12-CHINATOWN-AUDIOTOUR/2025-03-12-CHINATOWN-ARTWORK/004+Spofford+-+1908_.jpg",
       playlist: "Look Up",
@@ -45,7 +45,7 @@ const playlist = {
     },
     {
       chapter: 5,
-      title: "Chapter 5: Chinese Beautiful",
+      title: "Chinese Beautiful",
       audio_url: "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-14-CHINATOWN-AUDIO/2025-03-14-CHINATOWN-MP3S/2025-03-14-CHINATOWN-005-COMPRESSED.mp3",
       artwork_url: "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-12-CHINATOWN-AUDIOTOUR/2025-03-12-CHINATOWN-ARTWORK/005+Chinatown+souvenirs.jpg",
       playlist: "Look Up",
@@ -959,7 +959,7 @@ async function loadTrack(index, shouldAutoplay = false) {
   elements.audioElement.src = track.audio_url;
   elements.albumArt.src = track.artwork_url;
   elements.trackTitle.textContent = `Chapter ${track.chapter}: ${track.title}`;
-  elements.trackArtist.textContent = `Ni de Aquí, Ni de Allá`;
+  elements.trackArtist.textContent = `Look Up`;
   elements.duration.textContent = track.duration || '0:00';
 
   // elements.audioElement.playbackRate = 1;
