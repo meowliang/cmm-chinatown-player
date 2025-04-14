@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover"> -->
-    <title>SF Japantown Walking Tour</title>
+    <title>SF Chinatown Walking Tour</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <script src="https://aframe.io/releases/1.7.1/aframe.min.js"></script>
@@ -76,7 +76,7 @@
                         </div>
                         <div class="track-info">
                             <h2 id="trackTitle"></h2>
-                            <p id="trackArtist">Look Up</p>
+                            <p id="trackArtist"></p>
                         </div>
 
                     </div>
@@ -126,7 +126,6 @@
         <div id="playlistContainer" class="playlist-container">
             <div class="playlist-header">
                 <h2>Chapters</h2>
-                <button id="playlistClose" class="close-btn">×</button>
             </div>
             <div id="playlistTracks" class="playlist-tracks"></div>
         </div>
@@ -134,7 +133,7 @@
 
     <!-- Audio Element -->
     <audio id="audioElement" crossorigin="anonymous" preload="auto" playsinline>
-        <source src="https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-14-CHINATOWN-AUDIO/2025-03-14-CHINATOWN-MP3S/2025-03-14-CHINATOWN-001-COMPRESSED.mp3" type="audio/mpeg">
+        <source  type="audio/mpeg">
     </audio>
 
     <script type="module" src="app.js"></script>
