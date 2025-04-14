@@ -4,42 +4,42 @@
     {
       "chapter": 1,
       "title": "Chinatown Memories",
-      "audio_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/japantown+audio+only+test.mp3",
-      "artwork_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-12-CHINATOWN-AUDIOTOUR/2025-03-12-CHINATOWN-ARTWORK/001+Ch1-TelecomAR-ezgif.com-optimize.gif",
+      "audio_url": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-03-15-CHINATOWN/2025-03-15-CHINATOWN-MP3S/2025-04-14-CHINATOWN-Ch-1+Chinatown+Memories.mp3",
+      "artwork_url": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-03-15-CHINATOWN/2025-03-25-CHINATOWN-ART/2025-03-15-CHINATOWN-ART-CH-1.jpg",
       "playlist": "Look Up",
-      "IsAR": true,
-      "XR_Scene": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-08-JAPANTOWN-XR1-LOW.mp4",
-      "duration": "3:45"
+      "IsAR": false,
+      "XR_Scene": "",
+      "duration": "4:20"
     },
     {
       "chapter": 2,
       "title": "Look Tin Eli",
       "audio_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-14-CHINATOWN-AUDIO/2025-03-14-CHINATOWN-MP3S/2025-03-14-CHINATOWN-002-COMPRESSED.mp3",
-      "artwork_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-12-CHINATOWN-AUDIOTOUR/2025-03-12-CHINATOWN-ARTWORK/002+Look_Tin_Eli_12017_Page_17.jpg",
+      "artwork_url": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-03-15-CHINATOWN/2025-03-25-CHINATOWN-ART/2025-03-15-CHINATOWN-ART-CH-2.jpg",
       "playlist": "Look Up",
       "IsAR": true,
-      "XR_Scene": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-04-01-CHINATOWN-XR/2025-04-01-CHINATOWN-XR-2.mp4",
-      "duration": "4:20"
+      "XR_Scene": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-04-10-CHINATOWN-XR-CHAPTERS/2025-04-10-CHINATOWN-XR-2-low-2.mp4",
+      "duration": "2:24"
     },
     {
       "chapter": 3,
       "title": "Earthquake",
       "audio_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-14-CHINATOWN-AUDIO/2025-03-14-CHINATOWN-MP3S/2025-03-14-CHINATOWN-003-COMPRESSED.mp3",
-      "artwork_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-12-CHINATOWN-AUDIOTOUR/2025-03-12-CHINATOWN-ARTWORK/003+Chinatown+front_+1906+earthquake.jpg",
+      "artwork_url": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-03-15-CHINATOWN/2025-03-25-CHINATOWN-ART/2025-03-15-CHINATOWN-ART-CH-3.jpg",
       "playlist": "Look Up",
       "IsAR": true,
-      "XR_Scene": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-04-01-CHINATOWN-XR/2025-04-01-CHINATOWN-XR-3.mp4",
-      "duration": "3:10"
+      "XR_Scene": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-04-10-CHINATOWN-XR-CHAPTERS/2025-04-10-CHINATOWN-XR-3-low.mp4",
+      "duration": "1:20"
     },
     {
       "chapter": 4,
       "title": "Spofford Alley",
       "audio_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-14-CHINATOWN-AUDIO/2025-03-14-CHINATOWN-MP3S/2025-03-14-CHINATOWN-004-COMPRESSED.mp3",
-      "artwork_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-12-CHINATOWN-AUDIOTOUR/2025-03-12-CHINATOWN-ARTWORK/004+Spofford+-+1908_.jpg",
+      "artwork_url": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-03-15-CHINATOWN/2025-03-25-CHINATOWN-ART/2025-03-15-CHINATOWN-ART-CH-4.jpg",
       "playlist": "Look Up",
-      "IsAR": false,
-      "XR_Scene": "",
-      "duration": "5:30"
+      "IsAR": true,
+      "XR_Scene": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-04-10-CHINATOWN-XR-CHAPTERS/2025-04-10-CHINATOWN-XR-4-low.mp4",
+      "duration": "4:48"
     },
     {
       "chapter": 5,
@@ -49,87 +49,87 @@
       "playlist": "Look Up",
       "IsAR": false,
       "XR_Scene": "",
-      "duration": "2:45"
+      "duration": "0:58"
     },
     {
       "chapter": 6,
       "title": "Erasing Chinatown",
       "audio_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-14-CHINATOWN-AUDIO/2025-03-14-CHINATOWN-MP3S/2025-03-14-CHINATOWN-006-COMPRESSED.mp3",
-      "duration": "2:12:00",
-      "artwork_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-12-CHINATOWN-AUDIOTOUR/2025-03-12-CHINATOWN-ARTWORK/006+6714001.jpg",
+      "artwork_url": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-03-15-CHINATOWN/2025-03-25-CHINATOWN-ART/2025-03-15-CHINATOWN-ART-CH-6.jpg",
       "playlist": "Look Up",
       "IsAR": true,
-      "XR_Scene": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-04-01-CHINATOWN-XR/XR-6.mp4"
+      "XR_Scene": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-04-10-CHINATOWN-XR-CHAPTERS/2025-04-10-CHINATOWN-XR-6-low.mp4",
+      "duration": "2:12"
     },
     {
       "chapter": 7,
       "title": "Look Up",
       "audio_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-14-CHINATOWN-AUDIO/2025-03-14-CHINATOWN-MP3S/2025-03-14-CHINATOWN-007-COMPRESSED.mp3",
-      "duration": "2:57:00",
-      "artwork_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-12-CHINATOWN-AUDIOTOUR/2025-03-12-CHINATOWN-ARTWORK/007+ruins+over+Chiantown.jpg",
+      "artwork_url": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-03-15-CHINATOWN/2025-03-25-CHINATOWN-ART/2025-03-15-CHINATOWN-ART-CH-7.jpg",
       "playlist": "Look Up",
       "IsAR": false,
-      "XR_Scene": ""
+      "XR_Scene": "",
+      "duration": "2:57"
     },
     {
       "chapter": 8,
       "title": "The Meaning of Asian American",
       "audio_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-14-CHINATOWN-AUDIO/2025-03-14-CHINATOWN-MP3S/2025-03-14-CHINATOWN-008-COMPRESSED.mp3",
-      "duration": "1:49:00",
-      "artwork_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-12-CHINATOWN-AUDIOTOUR/2025-03-12-CHINATOWN-ARTWORK/008+Low%2BTim.png",
+      "artwork_url": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-03-15-CHINATOWN/2025-03-25-CHINATOWN-ART/2025-03-15-CHINATOWN-ART-CH-8.jpg",
       "playlist": "Look Up",
       "IsAR": false,
-      "XR_Scene": ""
+      "XR_Scene": "",
+      "duration": "1:49"
     },
     {
       "chapter": 9,
       "title": "Look Tin Eli's Plan",
       "audio_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-14-CHINATOWN-AUDIO/2025-03-14-CHINATOWN-MP3S/2025-03-14-CHINATOWN-009-COMPRESSED.mp3",
-      "duration": "1:05:00",
-      "artwork_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-12-CHINATOWN-AUDIOTOUR/2025-03-12-CHINATOWN-ARTWORK/009+Architect+pitcture.jpg",
+      "artwork_url": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-03-15-CHINATOWN/2025-03-25-CHINATOWN-ART/2025-03-15-CHINATOWN-ART-CH-9.jpg",
       "playlist": "Look Up",
       "IsAR": true,
-      "XR_Scene": ""
+      "XR_Scene": "",
+      "duration": "1:05"
     },
     {
       "chapter": 10,
       "title": "Securing Chinatown",
       "audio_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-14-CHINATOWN-AUDIO/2025-03-14-CHINATOWN-MP3S/2025-03-14-CHINATOWN-010-COMPRESSED.mp3",
-      "duration": "2:48:00",
-      "artwork_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-12-CHINATOWN-AUDIOTOUR/2025-03-12-CHINATOWN-ARTWORK/010+Dragon+Gates+SF.png",
+      "artwork_url": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-03-15-CHINATOWN/2025-03-25-CHINATOWN-ART/2025-03-15-CHINATOWN-ART-CH-10.jpg",
       "playlist": "Look Up",
       "IsAR": true,
-      "XR_Scene": ""
+      "XR_Scene": "",
+      "duration": "2:48"
     },
     {
       "chapter": 11,
       "title": "Sing Chong",
       "audio_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-14-CHINATOWN-AUDIO/2025-03-14-CHINATOWN-MP3S/2025-03-14-CHINATOWN-011-COMPRESSED.mp3",
-      "duration": "1:36:00",
-      "artwork_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-12-CHINATOWN-AUDIOTOUR/2025-03-12-CHINATOWN-ARTWORK/011+Medium+sized+JPEG+(7).jpg",
+      "artwork_url": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-03-15-CHINATOWN/2025-03-25-CHINATOWN-ART/2025-03-15-CHINATOWN-ART-CH-11.jpg",
       "playlist": "Look Up",
       "IsAR": true,
-      "XR_Scene": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-04-01-CHINATOWN-XR/XR-SCENE-11+(VR2+Output).mp4"
+      "XR_Scene": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-04-10-CHINATOWN-XR-CHAPTERS/2025-04-10-CHINATOWN-XR-11-low.mp4",
+      "duration": "1:36"
     },
     {
       "chapter": 12,
       "title": "The Spaces Between",
       "audio_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-14-CHINATOWN-AUDIO/2025-03-14-CHINATOWN-MP3S/2025-03-14-CHINATOWN-012-COMPRESSED.mp3",
-      "duration": "4:52:00",
-      "artwork_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-12-CHINATOWN-AUDIOTOUR/2025-03-12-CHINATOWN-ARTWORK/012+Spaces+Between.png",
+      "artwork_url": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-03-15-CHINATOWN/2025-03-25-CHINATOWN-ART/2025-03-15-CHINATOWN-ART-CH-12.jpg",
       "playlist": "Look Up",
       "IsAR": false,
-      "XR_Scene": ""
+      "XR_Scene": "",
+      "duration": "4:52"
     },
     {
       "chapter": 13,
       "title": "Thank You",
       "audio_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-14-CHINATOWN-AUDIO/2025-03-14-CHINATOWN-MP3S/2025-03-14-CHINATOWN-013-COMPRESSED.mp3",
-      "duration": "0:44:00",
       "artwork_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-12-CHINATOWN-AUDIOTOUR/2025-03-12-CHINATOWN-ARTWORK/013+Block-CalMigration-logo-Off-White.png",
       "playlist": "Look Up",
       "IsAR": false,
-      "XR_Scene": ""
+      "XR_Scene": "",
+      "duration": "0:44"
     }
   ]
 }
