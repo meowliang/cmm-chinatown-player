@@ -14,12 +14,12 @@
     {
       "chapter": 2,
       "title": "Look Tin Eli",
-      "audio_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-14-CHINATOWN-AUDIO/2025-03-14-CHINATOWN-MP3S/2025-03-14-CHINATOWN-002-COMPRESSED.mp3",
+      "audio_url": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-03-15-CHINATOWN/2025-03-15-CHINATOWN-MP3S/2025-04-21-SHORTER-MP3-CHAPTERS/2025-04-21-Chapter+2+Look+Tin+Eli.mp3",
       "artwork_url": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-03-15-CHINATOWN/2025-03-25-CHINATOWN-ART/2025-03-15-CHINATOWN-ART-CH-2.jpg",
       "playlist": "Look Up",
       "IsAR": true,
-      "XR_Scene": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-04-10-CHINATOWN-XR-CHAPTERS/2025-04-10-CHINATOWN-XR-2-low-2.mp4",
-      "duration": "2:24"
+      "XR_Scene": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-04-10-JAPANTOWN-XR/2025-04-21-CHINATOWN-XR-UPDATE/2025-04-21-CHINATOWN-XR-2b-low.mp4",
+      "duration": "2:04"
     },
     {
       "chapter": 3,
@@ -33,13 +33,23 @@
     },
     {
       "chapter": 4,
-      "title": "Spofford Alley",
-      "audio_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-14-CHINATOWN-AUDIO/2025-03-14-CHINATOWN-MP3S/2025-03-14-CHINATOWN-004-COMPRESSED.mp3",
+      "title": "Earthquake Headlines",
+      "audio_url": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-03-15-CHINATOWN/2025-03-15-CHINATOWN-MP3S/2025-04-21-SHORTER-MP3-CHAPTERS/2025-04-21-Chapter+4a+Earthquake+headlines.mp3",
       "artwork_url": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-03-15-CHINATOWN/2025-03-25-CHINATOWN-ART/2025-03-15-CHINATOWN-ART-CH-4.jpg",
       "playlist": "Look Up",
       "IsAR": true,
-      "XR_Scene": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-04-10-CHINATOWN-XR-CHAPTERS/2025-04-10-CHINATOWN-XR-4-low.mp4",
-      "duration": "4:48"
+      "XR_Scene": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-04-10-JAPANTOWN-XR/2025-04-21-CHINATOWN-XR-UPDATE/2025-04-21-CHINATOWN-XR-4A_low.mp4",
+      "duration": "1:39"
+    },
+    {
+      "chapter": 4.5,
+      "title": "Spofford Alley",
+      "audio_url": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-03-15-CHINATOWN/2025-03-15-CHINATOWN-MP3S/2025-04-21-SHORTER-MP3-CHAPTERS/2025-04-21-Chapter+4b+Spofford+Alley.mp3",
+      "artwork_url": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-03-15-CHINATOWN/2025-03-25-CHINATOWN-ART/2025-03-15-CHINATOWN-ART-CH-4.jpg",
+      "playlist": "Look Up",
+      "IsAR": false,
+      "XR_Scene": "",
+      "duration": "3:09"
     },
     {
       "chapter": 5,
@@ -104,12 +114,22 @@
     {
       "chapter": 11,
       "title": "Sing Chong",
-      "audio_url": "https://cmm-cloud-storage.s3.us-east-2.amazonaws.com/2025-03-14-CHINATOWN-AUDIO/2025-03-14-CHINATOWN-MP3S/2025-03-14-CHINATOWN-011-COMPRESSED.mp3",
+      "audio_url": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-03-15-CHINATOWN/2025-03-15-CHINATOWN-MP3S/2025-04-21-SHORTER-MP3-CHAPTERS/2025-04-21-Chapter+11a+Sing+Chong.mp3",
       "artwork_url": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-03-15-CHINATOWN/2025-03-25-CHINATOWN-ART/2025-03-15-CHINATOWN-ART-CH-11.jpg",
       "playlist": "Look Up",
       "IsAR": true,
-      "XR_Scene": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-04-10-CHINATOWN-XR-CHAPTERS/2025-04-10-CHINATOWN-XR-11-low.mp4",
-      "duration": "1:36"
+      "XR_Scene": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-04-10-JAPANTOWN-XR/2025-04-21-CHINATOWN-XR-UPDATE/2025-04-21-CHINATOWN-XR-11a-low.mp4",
+      "duration": "1:01"
+    },
+    {
+      "chapter": 11.5,
+      "title": "Sing Chong pt. 2",
+      "audio_url": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-03-15-CHINATOWN/2025-03-15-CHINATOWN-MP3S/2025-04-21-SHORTER-MP3-CHAPTERS/2025-04-21-Chapter+11b+Sing+Chong+2.mp3",
+      "artwork_url": "https://cmm-cloud-2.s3.us-west-1.amazonaws.com/WALKING+TOURS/2025-03-15-CHINATOWN/2025-03-25-CHINATOWN-ART/2025-03-15-CHINATOWN-ART-CH-11.jpg",
+      "playlist": "Look Up",
+      "IsAR": false,
+      "XR_Scene": "",
+      "duration": "1:01"
     },
     {
       "chapter": 12,
