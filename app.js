@@ -413,6 +413,8 @@ async function enterXRMode() {
 async function exitXRMode() {
   if (!state.isXRMode) return;
 
+  const currentTrack = playlist.tracks[state.currentTrack];
+
       // Track exit 360° button click
       window.dataLayer.push({
         'event': 'exit_360_clicked',
